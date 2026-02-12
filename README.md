@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Amos Kimiti Kariuki
 
-<!--
-**Kimiti4/Kimiti4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Computer Programming at IYF.
+- I'm interested in Cybersecurity and Networking, Python programming and dog handling.
+- I'm looking to collaborate on an AI project and a dynamic robotics movement .
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Python Prgramming
+- Java Script
+- Networking and Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Tiannara MindCache](link) — Hybrid Rust + Python Cognitive OS for AI-powered prosthetic Intelligence and Contextual Memoory Systems
+
+## How to Reach Me
+- Email: [karamos473@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/amos-kariuki-b92062399]
