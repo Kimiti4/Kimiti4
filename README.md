@@ -12,7 +12,7 @@
 - Networking and Cybersecurity
 
 ## Current Projects
-- [Tiannara MindCache](link) — Hybrid Rust + Python Cognitive OS for AI-powered prosthetic Intelligence and Contextual Memoory Systems
+- [Tiannara MindCache](link) — Hybrid Rust + Python Cognitive OS for AI-powered prosthetic Intelligence and Contextual Memory Systems
 
 ## How to Reach Me
 - Email: [karamos473@gmail.com]
