@@ -17,7 +17,6 @@ I want to become a **skilled** programmer, stay *consistent*, and practice using
   | Tool | Purpose | Link |
   |------|---------|------|
   | Git  | Version Control |  https://git-scm.com|
-  |------|-----------------|-----------------------|
   | VS Code | Code Editor |  https://code.visualstudio.com |
 
 
