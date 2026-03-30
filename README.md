@@ -91,7 +91,7 @@ Building intelligent systems and shaping the future through technology.
 ## 🌐 CONNECT WITH ME
 
 - GitHub: https://github.com/Kimiti4  
-- Portfolio: Coming Soon  
+- Portfolio: [Kimiti](https://kimiti4.github.io/iyf-s10-week-02-Kimiti4/) 
 - LinkedIn: (add when available)
 
 ---
